@@ -7,4 +7,12 @@ public class Main {
         int sum = a+b;
         System.out.println(sum);
     }
+//    Import parts in Spring Framework
+//    1.Core Container
+//    2. AOP
+//    3. JDBC
+//    4. Web
+//    5. Testing
+
+
 }
